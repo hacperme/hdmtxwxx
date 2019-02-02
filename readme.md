@@ -18,12 +18,10 @@
 
 
 
-
-
-## 报道
+## 报刊
 
 - [谁来改变乡村教育？](News/105814277127.md) [南风窗]
-- [遑洞小学，爱可以重来](News/9G01XNK00.md)  [天天快报](http://kuaibao.qq.com/s/20190119G01XNK00?refer=spider)
+- [遑洞小学，爱可以重来](News/9G01XNK00.md)  [[天天快报](http://kuaibao.qq.com/s/20190119G01XNK00?refer=spider)]
 
 
 
@@ -33,11 +31,14 @@
 
   
 
+## 游记
 
+-  [悠遐思思的旅游相册](Yododo/0909A8.md)  [[游多多Yododo](http://www.yododo.com/album/012C0D18F38A644AFF8080812C0909A8#)]
 
 ## 其他
 
--  [悠遐思思的旅游相册](Yododo/0909A8.md)  [[游多多Yododo](http://www.yododo.com/album/012C0D18F38A644AFF8080812C0909A8#)]
+- [遑洞明天希望小学网站(由 archive.org 抓取，国内需代理才可访问)](http://web.archive.org/web/20110207215446/http://www.hdmtxwxx.com/) 
+	原网址（网站已变更）：http://www.hdmtxwxx.com
 
 
 
