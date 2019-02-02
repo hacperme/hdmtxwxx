@@ -1,6 +1,7 @@
 # 遑洞明天希望小学 资料整理
 
-[TOC]
+ https://kkkkhu.github.io/hdmtxwxx/
+
 
 ---
 
