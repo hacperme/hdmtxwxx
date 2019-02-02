@@ -38,7 +38,7 @@
 ## 其他
 
 - [遑洞明天希望小学网站(由 archive.org 抓取，国内需代理才可访问)](http://web.archive.org/web/20110207215446/http://www.hdmtxwxx.com/) 
-	原网址（网站已变更）：http://www.hdmtxwxx.com
+  原网址（网站已变更）：http://www.hdmtxwxx.com
 
 
 
