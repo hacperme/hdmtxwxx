@@ -2,7 +2,6 @@
 
  https://kkkkhu.github.io/hdmtxwxx/
 
-
 ---
 
 
@@ -24,7 +23,7 @@
 ## 报道
 
 - [谁来改变乡村教育？](News/105814277127.md) [南风窗]
-- [遑洞小学，爱可以重来](News/105814277127.md)  [天天快报](http://kuaibao.qq.com/s/20190119G01XNK00?refer=spider)
+- [遑洞小学，爱可以重来](News/9G01XNK00.md)  [天天快报](http://kuaibao.qq.com/s/20190119G01XNK00?refer=spider)
 
 
 
